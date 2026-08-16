@@ -1,0 +1,17 @@
+### Get API status
+GET http://localhost:3000/api
+
+### Get website overview
+GET http://localhost:3000/api/overview
+
+### Get features
+GET http://localhost:3000/api/features
+
+### Get coaches
+GET http://localhost:3000/api/coaches
+
+### Get events
+GET http://localhost:3000/api/events
+
+### Get testimonials
+GET http://localhost:3000/api/testimonials
